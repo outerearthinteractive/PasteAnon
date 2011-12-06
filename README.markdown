@@ -1,4 +1,7 @@
-A anonymous pastebin clone.  
+PasteAnon
+---
+A _anonymous_ pastebin clone.  
+
 This list is subject to change, and is a guide of things to implement.
 
 Features
